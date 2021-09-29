@@ -1,0 +1,2 @@
+# mavenpluginfirst
+学习maven插件开发的一个小demo
